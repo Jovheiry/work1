@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(206, 179, 231);
+}
+h1{
+    color: red;
+}
+
+p{
+    color: #3258a3;
+}
+
+strong {
+    color: #370b44cc;
+}
+
+label {
+    color: darkblue;
+}
+#cabecera {
+
+}
+
+.cabecera {
+
+}
